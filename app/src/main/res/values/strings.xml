@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">WebView</string>
+    <string name="search">¡Buscar!</string>
+    <string name="site_name">Nombre del sitio</string>
+    <string name="back">Retroceder</string>
+</resources>
